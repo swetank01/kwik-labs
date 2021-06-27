@@ -36,10 +36,10 @@ Open a new tab in your browser and go to the Actions on Google Developer Console
 
 Click New Project and agree to the Actions on Google Terms of Service that appears. Next, click on the project field, select the Google Cloud project ID for Qwiklabs, and click IMPORT PROJECT:
 
-![action](project-import.gif)
+![action](assests/project-import.gif)
 
 Soon after you will be presented with a welcome page that resembles the following:
 
-![action](actions-console.png)
+![action](assests/actions-console.png)
 
 Click on Actions Console in the top left corner. Then click on the project you just created (title has your Project ID as the name.)
