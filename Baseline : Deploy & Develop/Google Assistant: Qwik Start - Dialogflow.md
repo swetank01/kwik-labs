@@ -33,3 +33,13 @@ Let's take our first step by building an Actions project.
 Open a new tab in your browser and go to the Actions on Google Developer Console. Then sign in with your temporary lab credentials. Once you are signed in, you should be looking at a clean Actions console, which should resemble the following:
 
 ![action](assests/action1.png)
+
+Click New Project and agree to the Actions on Google Terms of Service that appears. Next, click on the project field, select the Google Cloud project ID for Qwiklabs, and click IMPORT PROJECT:
+
+![action](project-import.gif)
+
+Soon after you will be presented with a welcome page that resembles the following:
+
+![action](actions-console.png)
+
+Click on Actions Console in the top left corner. Then click on the project you just created (title has your Project ID as the name.)
