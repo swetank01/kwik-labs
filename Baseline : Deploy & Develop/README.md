@@ -6,7 +6,7 @@
 - App Engine: Qwik Start - Python
 - Cloud Source Repositories: Qwik Start
 - Container-Optimized OS: Qwik Start
-- Datastore: Qwik Start
+- Datastore: Qwik Start ✅
 - Cloud SQL for MySQL: Qwik Start
 - Data Loss Prevention: Qwik Start - Command Line
 - Cloud Functions: Qwik Start - Command Line
